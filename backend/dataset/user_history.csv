@@ -1,0 +1,2 @@
+user_id,past_claim_count,accept_claim,manual_review_claim,rejected_claim,last_90_days_claim_count,history_flags,history_summary
+user1,0,0,0,0,0,,New customer
