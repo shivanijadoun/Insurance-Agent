@@ -12,7 +12,7 @@ export default function ReportCard({ data }) {
 
       {/* Status */}
       <div className="mb-2">
-        <span className="text-gray-400">Status: </span>
+        <span className="text-gray-300">Status: </span>
         <span
           className={
             data.status === "supported"

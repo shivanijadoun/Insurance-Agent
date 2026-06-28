@@ -128,7 +128,7 @@ const handleSend = async (text) => {
         ))}
 
         {loading && (
-          <div className="text-gray-400 text-sm animate-pulse">
+          <div className="text-gray-300 text-sm animate-pulse">
             Insurance AI is analyzing your request...
           </div>
         )}
